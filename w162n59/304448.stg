@@ -1,0 +1,6 @@
+OBJECT_BASE 304448.btg
+OBJECT PAPM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -161.825067 59.012135 2.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -161.822890 59.015819 2.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -161.815941 59.007217 3.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -161.815128 59.010020 2.5 0.00
